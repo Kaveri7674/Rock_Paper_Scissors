@@ -1,19 +1,30 @@
-# Password_Generator
+Rock-Paper-scissors
+# Rock Paper Scissors Game
 
-A simple and customizable password generator written in Python. This tool helps you create strong, random passwords with options to include uppercase letters, digits, and special characters to enhance security.
+A simple Rock Paper Scissors game implemented in python 
 
-Features:
-Generate passwords of any length 
+## Overview
 
-Option to include or exclude:
+This is a classic Rock Paper Scissors game where two players (user vs computer) choose between rock, paper, or scissors. The game decides the winner based on the traditional rules:
 
-Uppercase letters
+- Rock crushes Scissors
+- Scissors cut Paper
+- Paper covers Rock
 
-Digits
+---
 
-Special characters (punctuation)
+## Features
 
-Ensures at least one character from each selected category is present
+- User vs Computer gameplay
+- Input validation
+- Clear and concise game results
+- Replay option
 
-Requirements
-Python 3.x
+---
+
+## How to Play
+
+1. Run the program.
+2. Choose your move: Rock, Paper, or Scissors.
+3. The computer will randomly select its move.
+4. The winner is announced.
