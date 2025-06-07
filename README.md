@@ -3,7 +3,7 @@
 A simple and customizable password generator written in Python. This tool helps you create strong, random passwords with options to include uppercase letters, digits, and special characters to enhance security.
 
 Features:
-Generate passwords of any length (default is 12 characters)
+Generate passwords of any length 
 
 Option to include or exclude:
 
